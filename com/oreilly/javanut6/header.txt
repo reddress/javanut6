@@ -1,0 +1,4 @@
+package com.oreilly.javanut6;
+
+import static util.Convenience.print;
+
